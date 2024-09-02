@@ -40,10 +40,11 @@ My research interest includes large language model, edge intelligence, and trust
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [Communication and Energy Efficient Wireless Federated Learning with Intrinsic Privacy](https://ieeexplore.ieee.org/abstract/document/10364879), **Zhenxiao Zhang**, Yuanxiong Guo, Yuguang Fang, Yanmin Gong, IEEE Transactions on Dependable and Secure Computing (TDSC), 2023
 
 - [Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking](https://ieeexplore.ieee.org/abstract/document/9928395), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2022
 <!-- **CVPR 2020** -->
-- [Communication and Energy Efficient Wireless Federated Learning with Intrinsic Privacy](https://ieeexplore.ieee.org/abstract/document/10364879), **Zhenxiao Zhang**, Yuanxiong Guo, Yuguang Fang, Yanmin Gong, IEEE Transactions on Dependable and Secure Computing (TDSC), 2024
+
 <!-- **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
