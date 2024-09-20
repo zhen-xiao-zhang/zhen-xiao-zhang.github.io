@@ -29,7 +29,7 @@ My research interest includes large language model, edge intelligence, and trust
 
 # 📝 Publications 
 
-
+See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Google Scholar</a> for a comprehensive list of publications.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,6 +61,21 @@ My research interest includes large language model, edge intelligence, and trust
 - *2020.09 - 2025.07 (now)*, University of Texas at San Antonio (UTSA), San Antonio, USA.
 - *2017.09 - 2020.07*, Master of Science, East China University of Science and Technology (ECUST), Shanghai, China.
 - *2013.09 - 2017.07*, Bachelor of Science, East China University of Science and Technology (ECUST), Shanghai, China.
+
+# ✍️ Professional Services 
+
+## Journal Reviewer:
+- IEEE Transactions on Mobile Computing (TMC), 2023, 2024.
+- IEEE Transactions on Information Forensics and Security (TIFS), 2023.
+- Computers & Security, 2023, 2024.
+
+## Conference Reviewer:
+- IEEE International Conference on Computer Communications (INFOCOM), 2023, 2024.
+- IEEE International Conference on Distributed Computing Systems (ICDCS), 2024.
+
+# 🎖 Award
+- *2020.09 - 2025.07 (now)*, University of Texas at San Antonio (UTSA), San Antonio, USA.
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
