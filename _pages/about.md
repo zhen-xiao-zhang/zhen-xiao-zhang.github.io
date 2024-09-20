@@ -46,6 +46,7 @@ My research interest includes large language model, edge intelligence, and trust
 - [Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking](https://ieeexplore.ieee.org/abstract/document/9928395), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2022
 
 ## Preprints
+- [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://ieeexplore.ieee.org/abstract/document/9928395), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong.
 <!-- **CVPR 2020** -->
 
 <!-- **CVPR 2020** -->
