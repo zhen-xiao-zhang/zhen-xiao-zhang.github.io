@@ -52,7 +52,7 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - *2017.09 - 2020.07*, Master of Science, East China University of Science and Technology (ECUST), Shanghai, China.
 - *2013.09 - 2017.07*, Bachelor of Science, East China University of Science and Technology (ECUST), Shanghai, China.
 
-# ✍️ Professional Services 
+# ✍️ Professional Services
 
 ## Journal Reviewer:
 - IEEE Transactions on Mobile Computing (TMC), 2023, 2024.
