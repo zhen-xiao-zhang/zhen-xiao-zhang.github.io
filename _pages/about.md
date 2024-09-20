@@ -63,8 +63,9 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - IEEE International Conference on Computer Communications (INFOCOM), 2023, 2024.
 - IEEE International Conference on Distributed Computing Systems (ICDCS), 2024.
 
-# 🎖 Award
-- *2020.09 - 2025.07 (now)*, University of Texas at San Antonio (UTSA), San Antonio, USA.
+# 🏆 Award
+- Graduate School Professional Development Award, UTSA, USA, 2024.
+- CPS-IoT Week Student Travel Grant, National Science Foundation, 2023.
 
 # 🌍 Outreach
 - Poster presentation at New In ML workshop of NeurIPS, New Orleans, USA, 2023.
