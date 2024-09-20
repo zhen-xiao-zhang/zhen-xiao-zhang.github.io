@@ -29,7 +29,7 @@ My research interest includes large language model, edge intelligence, and trust
 
 # 📝 Publications 
 
-## 
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,13 +41,14 @@ My research interest includes large language model, edge intelligence, and trust
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+## Selected Papers in Refereed Journals:
 - [Communication and Energy Efficient Wireless Federated Learning with Intrinsic Privacy](https://ieeexplore.ieee.org/abstract/document/10364879), **Zhenxiao Zhang**, Yuanxiong Guo, Yuguang Fang, Yanmin Gong, IEEE Transactions on Dependable and Secure Computing (TDSC), 2023
 
 - [Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking](https://ieeexplore.ieee.org/abstract/document/9928395), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2022
 
-## Preprints
-- [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://arxiv.org/abs/2409.04022) **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024.
-- [DP$^2$-FedSAM: Enhancing Differentially Private Federated Learning Through Personalized Sharpness-Aware Minimization](https://ieeexplore.ieee.org/abstract/document/9928395), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024.
+## Preprints:
+- [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://arxiv.org/abs/2409.04022), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024.
+- [DP$^2$-FedSAM: Enhancing Differentially Private Federated Learning Through Personalized Sharpness-Aware Minimization] **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024.
 <!-- **CVPR 2020** -->
 
 <!-- **CVPR 2020** -->
