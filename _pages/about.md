@@ -76,6 +76,9 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 # 🎖 Award
 - *2020.09 - 2025.07 (now)*, University of Texas at San Antonio (UTSA), San Antonio, USA.
 
+# 🌍 Outreach
+- Poster presentation at New In ML workshop of NeurIPS, New Orleans, USA, 2023.
+- Volunteer at CPS-IoT Week, San Antonio, USA, 2023.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
