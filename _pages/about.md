@@ -40,6 +40,7 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://arxiv.org/abs/2409.04022), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024.
 - [DP$^2$-FedSAM: Enhancing Differentially Private Federated Learning Through Personalized Sharpness-Aware Minimization](https://arxiv.org/abs/2409.13645), **Zhenxiao Zhang**, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024.
 - [FedPT: Federated Proxy-Tuning of Large Language Models on Resource-Constrained Edge Devices](https://www.arxiv.org/abs/2410.00362), Zhidong Gao, Yu Zhang, **Zhenxiao Zhang**, Yanmin Gong, Yuanxiong Guo. arXiv preprint, 2024.
+- [Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning](https://arxiv.org/abs/2410.10833), Zhidong Gao, **Zhenxiao Zhang**, Yu Zhang, Tongnian Wang, Yanmin Gong, Yuanxiong Guo. arXiv preprint, 2024.
 <!-- **CVPR 2020** -->
 
 <!-- **CVPR 2020** -->
