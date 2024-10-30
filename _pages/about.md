@@ -62,6 +62,7 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - IEEE Transactions on Mobile Computing (TMC), 2023, 2024.
 - IEEE Transactions on Information Forensics and Security (TIFS), 2023.
 - Computers $\&$ Security, 2023, 2024.
+- Expert Systems with Applications (ESWA), 2024.
 
 ## Conference Reviewer:
 - IEEE International Conference on Computer Communications (INFOCOM), 2023, 2024.
