@@ -24,8 +24,9 @@ My research interest includes large language model, edge intelligence, and trust
 
 
 # 🔥 News
-- *2024.12*: Our paper "Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression" was accepted by IEEE Transactions on Mobile Computing (TMC).
-- *2024.10*: Our paper "Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA" was accepted by IEEE International Conference on Computer Communications (INFOCOM 2025).
+- *2024.12*: Our paper "Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA" was accepted by IEEE International Conference on Computer Communications (INFOCOM 2025).
+- 
+- *2024.10*: Our paper "Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression" was accepted by IEEE Transactions on Mobile Computing (TMC).
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  --> 
 
 # 📝 Publications 
