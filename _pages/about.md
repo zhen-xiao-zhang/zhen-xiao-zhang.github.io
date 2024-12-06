@@ -25,6 +25,7 @@ My research interest includes large language model, edge intelligence, and trust
 
 # 🔥 News
 - *2024.10*: Our paper "Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression" was accepted by IEEE Transactions on Mobile Computing (TMC).
+- *2024.10*: Our paper "Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA" was accepted by IEEE International Conference on Computer Communications (INFOCOM 2025).
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  --> 
 
 # 📝 Publications 
@@ -37,6 +38,9 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - [Communication and Energy Efficient Wireless Federated Learning with Intrinsic Privacy](https://ieeexplore.ieee.org/abstract/document/10364879), **Zhenxiao Zhang**, Yuanxiong Guo, Yuguang Fang, Yanmin Gong, IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
 
 - [Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking](https://ieeexplore.ieee.org/abstract/document/9928395), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2022.
+
+## Selected Papers in Refereed Inferences:
+- [Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA], Zhidong Gao, **Zhenxiao Zhang**, Yuanxiong Guo, Yanmin Gong, IEEE International Conference on Computer Communications (INFOCOM), 2025.
 
 ## Preprints:
 <!-- - [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://arxiv.org/abs/2409.04022), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024. -->
