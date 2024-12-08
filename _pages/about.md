@@ -24,7 +24,7 @@ My research interests include Cybersecurity, Foundation Models, Edge Intelligenc
 
 
 # 🔥 News
-- *2024.12*: Our paper "Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA" was accepted by IEEE International Conference on Computer Communications (INFOCOM 2025).
+- *2024.12*: Our paper "Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA" was accepted by IEEE International Conference on Computer Communications (INFOCOM 2025). (Acceptance ratio: 18.65%)
 
 - *2024.10*: Our paper "Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression" was accepted by IEEE Transactions on Mobile Computing (TMC).
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  --> 
@@ -41,7 +41,7 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - [Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking](https://ieeexplore.ieee.org/abstract/document/9928395), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2022.
 
 ## Selected Papers in Refereed Inferences:
-- Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA, Zhidong Gao\*, **Zhenxiao Zhang**\*, Yuanxiong Guo, Yanmin Gong, IEEE International Conference on Computer Communications (INFOCOM), 2025.
+- Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA, Zhidong Gao\*, **Zhenxiao Zhang**\*, Yuanxiong Guo, Yanmin Gong, IEEE International Conference on Computer Communications (INFOCOM), 2025. (Acceptance ratio: 18.65%)
 
 ## Preprints:
 <!-- - [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://arxiv.org/abs/2409.04022), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024. -->
