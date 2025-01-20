@@ -24,6 +24,8 @@ My research interests include Cybersecurity, Foundation Models, Edge Intelligenc
 
 
 # 🔥 News
+- *2025.01*: Our paper "pFedSAM: Secure Federated Learning Against Backdoor Attacks via Personalized Sharpness-Aware Minimization" was accepted by IEEE International Conference on Communications (ICC 2025).
+
 - *2024.12*: Our paper "Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA" was accepted by IEEE International Conference on Computer Communications (INFOCOM 2025). (Acceptance ratio: 18.65%)
 
 - *2024.10*: Our paper "Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression" was accepted by IEEE Transactions on Mobile Computing (TMC).
