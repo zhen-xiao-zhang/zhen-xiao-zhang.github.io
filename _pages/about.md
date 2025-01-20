@@ -71,11 +71,18 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - IEEE Transactions on Information Forensics and Security (TIFS), 2023, 2024.
 - Computers & Security, 2023, 2024.
 - Expert Systems with Applications (ESWA), 2024.
+- Cluster & Computing, 2024.
+- Computing, 2024.
+- Mobile Networks and Application, 2024.
+- iScience, 2025.
 
 ## Conference Reviewer:
 - IEEE International Conference on Computer Communications (INFOCOM), 2023, 2024.
-- IEEE International Conference on Distributed Computing Systems (ICDCS), 2024.
+- IEEE International Conference on Distributed Computing Systems (ICDCS), 2024, 2025.
 - IEEE International Conference on Pervasive Computing and Communications (PerCom), 2024.
+  
+## Technical Program Committee Member:
+- Workshop on Generative AI for Smart and Connected Health: Innovations, Challenges, and Applications (GenAI4SCH), IEEE/ACM CHASE, 2025.
 
 # 🏆 Honors and Awards
 - Graduate School Professional Development Award, UTSA, USA, 2024.
