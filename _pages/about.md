@@ -44,6 +44,7 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 
 ## Selected Papers in Refereed Inferences:
 - Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA, Zhidong Gao\*, **Zhenxiao Zhang**\*, Yuanxiong Guo, Yanmin Gong, IEEE International Conference on Computer Communications (INFOCOM), 2025. (Acceptance ratio: 18.65%)
+- pFedSAM: Secure Federated Learning Against Backdoor Attacks via Personalized Sharpness-Aware Minimization, **Zhenxiao Zhang**, Yuanxiong Guo, Yanmin Gong, IEEE International Conference on Computer Communications (ICC), 2025. 
 
 ## Preprints:
 <!-- - [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://arxiv.org/abs/2409.04022), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong. arXiv preprint, 2024. -->
