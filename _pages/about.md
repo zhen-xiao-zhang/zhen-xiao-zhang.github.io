@@ -24,6 +24,8 @@ My research interests include Cybersecurity, Foundation Models, Edge Intelligenc
 
 
 # 🔥 News
+- *2025.07*: Our paper "Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning" was accepted by IEEE Internet of Things Journal (IoT-J 2025).
+
 - *2025.01*: Our paper "pFedSAM: Secure Federated Learning Against Backdoor Attacks via Personalized Sharpness-Aware Minimization" was accepted by IEEE International Conference on Communications (ICC 2025).
 
 - *2024.12*: Our paper "Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA" was accepted by IEEE International Conference on Computer Communications (INFOCOM 2025). (Acceptance ratio: 18.65%)
@@ -36,6 +38,10 @@ My research interests include Cybersecurity, Foundation Models, Edge Intelligenc
 See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Google Scholar</a> for a comprehensive list of publications.
 
 ## Selected Papers in Refereed Journals:
+- Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning, Zhidong Gao, **Zhenxiao Zhang**, Yu Zhang, Yuanxiong Guo, Yanmin Gong, IEEE Internet of Things Journal (IoT-J), 2025.
+
+Z.Gao, Z. Zhang, Y. Zhang, Y. Gong, and Y. Guo
+IEEE Internet of Things Journal (IoT-J), 2025
 - [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2024.
 
 - [Communication and Energy Efficient Wireless Federated Learning with Intrinsic Privacy](https://ieeexplore.ieee.org/abstract/document/10364879), **Zhenxiao Zhang**, Yuanxiong Guo, Yuguang Fang, Yanmin Gong, IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
