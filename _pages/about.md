@@ -47,7 +47,7 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - [Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking](https://ieeexplore.ieee.org/abstract/document/9928395), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2022.
 
 ## Selected Papers in Refereed Inferences:
-- Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA, Zhidong Gao\*, **Zhenxiao Zhang**\*, Yuanxiong Guo, Yanmin Gong, IEEE International Conference on Computer Communications (INFOCOM), 2025. (Acceptance ratio: 18.65%)
+- [Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA](https://ieeexplore.ieee.org/abstract/document/11044641), Zhidong Gao\*, **Zhenxiao Zhang**\*, Yuanxiong Guo, Yanmin Gong, IEEE International Conference on Computer Communications (INFOCOM), 2025. (Acceptance ratio: 18.65%)
 - pFedSAM: Secure Federated Learning Against Backdoor Attacks via Personalized Sharpness-Aware Minimization, **Zhenxiao Zhang**, Yuanxiong Guo, Yanmin Gong, IEEE International Conference on Computer Communications (ICC), 2025. 
 
 ## Preprints:
