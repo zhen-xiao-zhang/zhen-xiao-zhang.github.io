@@ -24,6 +24,8 @@ My research interests include Cybersecurity, Foundation Models, Edge Intelligenc
 
 
 # 🔥 News
+- *2025.09*: Our paper "Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning" was accepted by IEEE Transactions on Vehicular Technology (TVT 2025).
+  
 - *2025.07*: Our paper "Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning" was accepted by IEEE Internet of Things Journal (IoT-J 2025).
 
 - *2025.01*: Our paper "pFedSAM: Secure Federated Learning Against Backdoor Attacks via Personalized Sharpness-Aware Minimization" was accepted by IEEE International Conference on Communications (ICC 2025).
