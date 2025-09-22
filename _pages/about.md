@@ -68,7 +68,7 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.09 - 2025.07 (now)*, University of Texas at San Antonio (UTSA), San Antonio, USA.
+- *2020.09 - 2025.12*, University of Texas at San Antonio (UTSA), San Antonio, USA.
 - *2017.09 - 2020.07*, Master of Science, East China University of Science and Technology (ECUST), Shanghai, China.
 - *2013.09 - 2017.07*, Bachelor of Science, East China University of Science and Technology (ECUST), Shanghai, China.
 
