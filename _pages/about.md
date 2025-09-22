@@ -40,7 +40,9 @@ My research interests include Cybersecurity, Foundation Models, Edge Intelligenc
 See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Google Scholar</a> for a comprehensive list of publications.
 
 ## Selected Papers in Refereed Journals:
-- Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning, Zhidong Gao, **Zhenxiao Zhang**, Yu Zhang, Yuanxiong Guo, Yanmin Gong, IEEE Internet of Things Journal (IoT-J), 2025.
+- Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning, Yu Zhang, Zhidong Gao, **Zhenxiao Zhang**, Tongnian Wang, Yanmin Gong, Yuanxiong Guo, IEEE Transactions on Vehicular Technology (TVT), 2025.
+
+- [Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/abstract/document/11083647), Zhidong Gao, **Zhenxiao Zhang**, Yu Zhang, Yuanxiong Guo, Yanmin Gong, IEEE Internet of Things Journal (IoT-J), 2025.
 
 - [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2024.
 
