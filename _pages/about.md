@@ -44,7 +44,7 @@ See <a href='https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en'>Googl
 
 - [Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning](https://ieeexplore.ieee.org/abstract/document/11083647), Zhidong Gao, **Zhenxiao Zhang**, Yu Zhang, Yuanxiong Guo, Yanmin Gong, IEEE Internet of Things Journal (IoT-J), 2025.
 
-- [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2024.
+- [Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10745729), **Zhenxiao Zhang**, Zhidong Gao, Yuanxiong Guo, Yanmin Gong, IEEE Transactions on Mobile Computing (TMC), 2024.
 
 - [Communication and Energy Efficient Wireless Federated Learning with Intrinsic Privacy](https://ieeexplore.ieee.org/abstract/document/10364879), **Zhenxiao Zhang**, Yuanxiong Guo, Yuguang Fang, Yanmin Gong, IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
 
