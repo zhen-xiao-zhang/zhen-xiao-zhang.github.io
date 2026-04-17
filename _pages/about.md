@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently (Sep. 2024) a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Texas at San Antonio, advised by <a href='https://yanmingong.github.io'>Dr. Yanmin Gong</a>.
+I am currently (Apr. 2026) an assistant professor in the School of Electronic Information at Central South University. I received my Ph.D. in Electrical Engineering from the University of Texas at San Antonio in Dec. 2025, and was fortunate to be advised by advised by <a href='https://yanmingong.github.io'>Dr. Yanmin Gong</a> (Texas A&M University). I also hold an M.S. in Applied Mathematics School of Science and a B.S. in Infromation and Computing Science from the East China University of Science and Technology. 
 
 My research interests include Cybersecurity, Foundation Models, Edge Intelligence, and Trustworthy Artificial Intelligence. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
