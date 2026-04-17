@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenxiao Zhang"
-description              : "ECE Ph.D. Candidate"
+description              : "Assistant Professor @ Central South University. Research in AI, Cybersecurity, and Networking"
 repository               : "zhen-xiao-zhang/zhen-xiao-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenxiao Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Texas at San Antonio"
-  location         : "San Antonio, USA"
+  bio              : "Central South University"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=W_IQOlkAAAAJ&hl=en"
