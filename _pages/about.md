@@ -24,6 +24,12 @@ My research interests include Cybersecurity, Foundation Models, Edge Intelligenc
 
 
 # 🔥 News
+- *2026.03*: I joined the School of Electronic Information at Central South University as a tenure-track assistant professor!
+
+- *2026.01*: I am invited to serve as TPC member for Communication and Information System Security at IEEE GLOBECOM 2026.
+
+- *2025.12*: I defended my Ph.D. dissertation!
+
 - *2025.09*: Our paper "Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning" was accepted by IEEE Transactions on Vehicular Technology (TVT 2025).
   
 - *2025.07*: Our paper "Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning" was accepted by IEEE Internet of Things Journal (IoT-J 2025).
